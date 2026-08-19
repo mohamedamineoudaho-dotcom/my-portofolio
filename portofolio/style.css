@@ -1,0 +1,41 @@
+.banner{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px  200px;
+    background-color: white;
+    border: none;
+    border-radius: 0px 0PX 15PX 15px;
+}
+.banner img{
+    width: 300px;
+}
+.image{
+    width: 190px;
+    border-radius: 10px;
+
+}
+.banner-text button{
+    width: 100px;
+    border-radius: 10PX;
+    border: none;
+    outline: none;
+    background-color:  	#1dbec0;
+    color: white;
+
+}
+button a{
+    color: white;
+}
+.banner-text{
+    padding: 100px 0px;
+}
+body{
+    background-color: #f8f9fa !important;
+    font-family: Embed , sans-serif;
+}
+.project{
+    padding: 0px  200px;
+}
+a{
+    text-decoration:none;
+}

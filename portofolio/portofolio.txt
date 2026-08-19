@@ -1,0 +1,9 @@
+Hi, my name is Mohamed Amine. I am a Moroccan high school student, and I am interested in programming, technology, and robotics.
+
+I started learning programming through practical projects. I have created a chess timer with HTML, CSS and JavaScript, an auto-clicker with Python, and an exam scheduling application using Python and SQLite.
+
+I also built a robotic hand with the help of my engineering teacher. This project made me realize that I really enjoy creating things and solving problems with technology.
+
+I have also participated in school projects about climate change, water, and autism awareness. These experiences made me interested in using technology to help solve problems in my community.
+
+Right now, I am improving my English and developing my programming skills. My goal is to continue learning, meet people from different backgrounds, and eventually use technology to create useful solutions for my community 
